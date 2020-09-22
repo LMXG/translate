@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\translate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\translate\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,5,4,8,3,7",
+                        "startColumns": "4,4,4,1,4,4",
+                        "startOffsets": "213,170,121,289,59,251",
+                        "endColumns": "36,41,47,33,60,35",
+                        "endOffsets": "245,207,164,321,115,282"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "681,718,760,808,845,906",
+                        "endColumns": "36,41,47,36,60,35",
+                        "endOffsets": "713,755,803,840,901,937"
+                    }
+                },
+                {
+                    "source": "E:\\translate\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,6,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "92,151,259,208",
+                        "endColumns": "57,55,42,49",
+                        "endOffsets": "145,202,297,253"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "474,532,588,631",
+                        "endColumns": "57,55,42,49",
+                        "endOffsets": "527,583,626,676"
+                    }
+                },
+                {
+                    "source": "E:\\translate\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "5,8,3,7,9,11,4,10,6,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "187,307,97,267,347,439,141,392,228,56",
+                        "endColumns": "39,38,42,38,43,44,44,45,37,39",
+                        "endOffsets": "222,341,135,301,386,479,181,433,261,91"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,134,177,216,260,305,350,396,434",
+                        "endColumns": "39,38,42,38,43,44,44,45,37,39",
+                        "endOffsets": "90,129,172,211,255,300,345,391,429,469"
+                    }
+                }
+            ]
+        }
+    ]
+}

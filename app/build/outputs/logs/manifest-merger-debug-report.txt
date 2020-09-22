@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+INJECTED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+	android:targetSdkVersion
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:5:5-18
+		INJECTED from E:\translate\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:7:5-28:19
+	android:label
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:8:9-42
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:9:9-38
+activity#mhy.dict.activity.WelcomeActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:13:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:16:27-74
+activity#mhy.dict.activity.LoginActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:19:19-48
+activity#mhy.dict.activity.RegisterActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:20:9-63
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:20:19-51
+activity#mhy.dict.activity.MainActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:21:19-47
+activity#mhy.dict.activity.NotebookActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:22:19-51
+activity#mhy.dict.activity.ShowItemwordActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:23:9-67
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:23:19-55
+activity#mhy.dict.activity.TranslateActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:24:9-64
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:24:19-52
+activity#mhy.dict.activity.SelectActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:25:19-49
+activity#mhy.dict.activity.LishiActivity
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:26:19-48
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:30:5-95
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\translate\app\src\main\AndroidManifest.xml:32:2-80
+	android:name
+		ADDED from E:\translate\app\src\main\AndroidManifest.xml:32:19-61

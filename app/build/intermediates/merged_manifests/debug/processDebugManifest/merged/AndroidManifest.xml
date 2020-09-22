@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mhy.dict.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="30" />
+    <!-- 查看网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 允许访问网络 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="mhy.dict.activity.MyApplication"
+        android:debuggable="true"
+        android:icon="@drawable/cibaicon"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="mhy.dict.activity.WelcomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="mhy.dict.activity.LoginActivity" />
+        <activity android:name="mhy.dict.activity.RegisterActivity" />
+        <activity android:name="mhy.dict.activity.MainActivity" />
+        <activity android:name="mhy.dict.activity.NotebookActivity" />
+        <activity android:name="mhy.dict.activity.ShowItemwordActivity" />
+        <activity android:name="mhy.dict.activity.TranslateActivity" />
+        <activity android:name="mhy.dict.activity.SelectActivity" />
+        <activity android:name="mhy.dict.activity.LishiActivity" />
+    </application>
+
+</manifest>
